@@ -28,6 +28,15 @@ Structured Python notebooks for ML Engineers, covering core Python patterns, sta
 | Pandas time series | rolling windows, lag features, `shift`, `pct_change` |
 | NumPy | vectorization, broadcasting, advanced indexing, softmax and cosine similarity from scratch |
 
+### module3.ipynb &nbsp;·&nbsp; ML Engineering Patterns
+
+| Topic | Concepts |
+|---|---|
+| OOP for ML | `BaseEstimator`, `TransformerMixin`, abstract base classes (`ABC`) |
+| Pipelines & composition | `Pipeline`, `ColumnTransformer`, custom transformers |
+| Files, serialization & config | `pathlib`, `json`, `joblib`, `dotenv`, environment variables |
+| Logging & debugging | `logging` module, `pdb`, structured log levels |
+
 ---
 
 ## Usage
@@ -36,4 +45,4 @@ Open notebooks in Jupyter or VS Code and work through the exercises in order. Ea
 
 ## Tags
 
-`python` `machine-learning` `numpy` `pandas` `data-science` `ml-engineering` `jupyter-notebook` `exercises` `interview-prep` `pydantic`
+`python` `machine-learning` `numpy` `pandas` `data-science` `ml-engineering` `jupyter-notebook` `exercises` `interview-prep` `pydantic` `scikit-learn` `logging`
