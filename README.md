@@ -37,6 +37,19 @@ Structured Python notebooks for ML Engineers, covering core Python patterns, sta
 | Files, serialization & config | `pathlib`, `json`, `joblib`, `dotenv`, environment variables |
 | Logging & debugging | `logging` module, `pdb`, structured log levels |
 
+### module4.ipynb &nbsp;·&nbsp; Serving and Production
+
+| Topic | Concepts |
+|---|---|
+| FastAPI routing | GET/POST/PUT/DELETE routes, path/query parameters, `HTTPException` |
+| Pydantic I/O | request/response models, `Field()` constraints, `field_validator`, serialization |
+| Lifespan management | `@asynccontextmanager`, startup/shutdown hooks, loading models once |
+| Dependency injection | `Depends`, API key auth, pagination, shared model loaders |
+| Async/await | async functions, `await`, I/O-bound vs CPU-bound, event loop |
+| Concurrent execution | `asyncio.gather`, `asyncio.wait_for`, `asyncio.Semaphore` for rate limiting |
+| Thread & process pools | `ThreadPoolExecutor` for blocking I/O, `ProcessPoolExecutor` for CPU work |
+| Testing | `pytest` fixtures, `@pytest.mark.parametrize`, `TestClient`, `monkeypatch` |
+
 ---
 
 ## Usage
@@ -45,4 +58,4 @@ Open notebooks in Jupyter or VS Code and work through the exercises in order. Ea
 
 ## Tags
 
-`python` `machine-learning` `numpy` `pandas` `data-science` `ml-engineering` `jupyter-notebook` `exercises` `interview-prep` `pydantic` `scikit-learn` `logging`
+`python` `machine-learning` `numpy` `pandas` `data-science` `ml-engineering` `jupyter-notebook` `exercises` `interview-prep` `pydantic` `scikit-learn` `logging` `fastapi` `async` `pytest`
