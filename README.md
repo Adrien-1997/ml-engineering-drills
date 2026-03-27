@@ -37,6 +37,16 @@ Structured Python notebooks for ML Engineers, covering core Python patterns, sta
 | Files, serialization & config | `pathlib`, `json`, `joblib`, `dotenv`, environment variables |
 | Logging & debugging | `logging` module, `pdb`, structured log levels |
 
+### module5.ipynb &nbsp;·&nbsp; Live Coding Patterns
+
+| Topic | Concepts |
+|---|---|
+| Sliding window | fixed/variable-size windows, rolling stats with `deque`, O(n) optimization |
+| Two pointers | two-sum on sorted arrays, batch processor pattern |
+| Data engineering | group-by aggregation, order-preserving deduplication, arbitrary-depth flatten, inverted index |
+| ML from scratch | k-fold cross-validation, stratified train-test split, precision/recall/F1, ROC-AUC (trapezoidal rule) |
+| Normalization | fit/transform pattern, z-score normalization, permutation importance |
+
 ### module4.ipynb &nbsp;·&nbsp; Serving and Production
 
 | Topic | Concepts |
@@ -58,4 +68,4 @@ Open notebooks in Jupyter or VS Code and work through the exercises in order. Ea
 
 ## Tags
 
-`python` `machine-learning` `numpy` `pandas` `data-science` `ml-engineering` `jupyter-notebook` `exercises` `interview-prep` `pydantic` `scikit-learn` `logging` `fastapi` `async` `pytest`
+`python` `machine-learning` `numpy` `pandas` `data-science` `ml-engineering` `jupyter-notebook` `exercises` `interview-prep` `pydantic` `scikit-learn` `logging` `fastapi` `async` `pytest` `algorithms` `sliding-window` `two-pointers`
