@@ -60,6 +60,17 @@ Structured Python notebooks for ML Engineers, covering core Python patterns, sta
 | ML from scratch | k-fold cross-validation, stratified train-test split, precision/recall/F1, ROC-AUC (trapezoidal rule) |
 | Normalization | fit/transform pattern, z-score normalization, permutation importance |
 
+### practice.ipynb &nbsp;·&nbsp; 50 Mini Problems
+
+| Tier | Problems | Focus |
+|---|---|---|
+| Warm-up | 1–15 | list comprehensions, dicts, counters, chunking, rolling windows |
+| Core | 16–30 | closures, generators, decorators, sorting, functional patterns |
+| Applied | 31–42 | grouping, dedup, flatten, batch pipelines, inverted index |
+| Full stack | 43–50 | end-to-end ML utilities, metrics, normalization, composition |
+
+> Solutions are hidden in `# SOLUTION` comments. Try each problem before peeking.
+
 ---
 
 ## Usage
@@ -68,4 +79,4 @@ Open notebooks in Jupyter or VS Code and work through the exercises in order. Ea
 
 ## Tags
 
-`python` `machine-learning` `numpy` `pandas` `data-science` `ml-engineering` `jupyter-notebook` `exercises` `interview-prep` `pydantic` `scikit-learn` `logging` `fastapi` `async` `pytest` `algorithms` `sliding-window` `two-pointers`
+`python` `machine-learning` `numpy` `pandas` `data-science` `ml-engineering` `jupyter-notebook` `exercises` `interview-prep` `pydantic` `scikit-learn` `logging` `fastapi` `async` `pytest` `algorithms` `sliding-window` `two-pointers` `mini-problems`
